@@ -1,0 +1,54 @@
+Modification	Mass Shift	dataset01_PSMs	dataset01_percent_PSMs
+None	0.0	61193	81.7620
+Iodoacetamide derivative/Addition of Glycine/Addition of G	57.021464	5249	7.0130
+Propionaldehyde +40	40.0313	1710	2.2840
+Pyro-glu from Q/Loss of ammonia	-17.026549	643	0.8600
+Unannotated mass-shift -0.0362	-0.0362	584	0.7810
+Isotopic peak error	-1.00235	402	0.5370
+First isotopic peak	1.00235	359	0.4800
+Unannotated mass-shift -0.0574	-0.0574	334	0.4470
+Unannotated mass-shift 0.1096	0.1096	254	0.3400
+Deamidation	0.984016	214	0.2860
+ubiquitinylation residue/Double Carbamidomethylation/Addition of N	114.042927	207	0.2770
+Amidation	-0.984016	188	0.2500
+Unannotated mass-shift 0.0974	0.0974	185	0.2480
+Iodoacetic acid derivative	58.005479	177	0.2370
+2-amino-3-oxo-butanoic_acid	-2.01565	128	0.1710
+Unannotated mass-shift -0.0830	-0.083	122	0.1620
+Unannotated mass-shift 56.9862	56.9862	101	0.1350
+amidination of lysines or N-terminal amines with methyl acetimidate	41.026549	96	0.1280
+Second isotopic peak	2.0047	70	0.0930
+Unannotated mass-shift -99.0794	-99.0794	65	0.0870
+lactic acid from N-term Ser/ISD (z+2)-series	-15.010899	64	0.0850
+Unannotated mass-shift -0.1370	-0.137	62	0.0820
+Oxidation or Hydroxylation	15.994915	60	0.0800
+Unannotated mass-shift -0.1042	-0.1042	59	0.0790
+Unannotated mass-shift 41.0520	41.052	48	0.0640
+Unannotated mass-shift -115.0624	-115.0624	45	0.0600
+Unannotated mass-shift -0.2266	-0.2266	43	0.0580
+Unannotated mass-shift 186.0996	186.0996	41	0.0550
+Unannotated mass-shift -17.0134	-17.0134	36	0.0480
+Methylation	14.01565	36	0.0480
+Lysine oxidation to aminoadipic semialdehyde	-1.031634	35	0.0470
+Unannotated mass-shift -4.0368	-4.0368	35	0.0470
+Unannotated mass-shift 353.2048	353.2048	31	0.0410
+Ethanolation	44.026215	30	0.0400
+Sodium adduct	21.981943	26	0.0350
+Unannotated mass-shift 0.1234	0.1234	25	0.0330
+Unannotated mass-shift -71.0718	-71.0718	24	0.0320
+Michael addition of hydroxymethylvinyl ketone to cysteine/transamidation of glycine ethyl ester to glutamine/2-hydroxyisobutyrylation	86.036779	23	0.0310
+Carbamylation	43.005814	20	0.0270
+Addition of P	97.0527572631836	19	0.0250
+Third isotopic peak	3.0070500000000004	18	0.0240
+Phosphorylation	79.966331	17	0.0230
+Unannotated mass-shift 1.0358	1.0358	16	0.0210
+deamidation followed by esterification with ethanol	29.015316	16	0.0210
+Unannotated mass-shift 0.1382	0.1382	16	0.0210
+Unannotated mass-shift 1.0500	1.05	15	0.0200
+Unannotated mass-shift -103.1398	-103.1398	13	0.0170
+Unannotated mass-shift 0.1720	0.172	13	0.0170
+Unannotated mass-shift -0.7994	-0.7994	13	0.0170
+Unannotated mass-shift -142.1100	-142.11	11	0.0150
+Unannotated mass-shift 129.0802	129.0802	11	0.0150
+Homoserine lactone/Prompt loss of side chain from oxidised Met	-48.003371	11	0.0150
+Unannotated mass-shift 156.0576	156.0576	10	0.0130

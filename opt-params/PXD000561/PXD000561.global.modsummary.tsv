@@ -1,0 +1,63 @@
+Modification	Mass Shift	dataset01_PSMs	dataset01_percent_PSMs
+None	0.0	35333	81.5420
+Acetylation	42.010565	1305	3.0110
+First isotopic peak	1.00235	580	1.3380
+Methylation	14.01565	413	0.9530
+Isotopic peak error	-1.00235	381	0.8790
+Unannotated mass-shift -116.0590	-116.059	301	0.6950
+Deamidation	0.984016	289	0.6670
+Unannotated mass-shift -0.0362	-0.0362	260	0.6000
+Oxidation or Hydroxylation	15.994915	222	0.5120
+Second isotopic peak	2.0047	199	0.4590
+Pyro-glu from Q/Loss of ammonia	-17.026549	185	0.4270
+Dehydration/Pyro-glu from E	-18.010565	141	0.3250
+Unannotated mass-shift -0.0464	-0.0464	131	0.3030
+Iodoacetic acid derivative	58.005479	121	0.2790
+Formylation	27.994915	110	0.2540
+dihydroxy	31.989829	106	0.2450
+Unannotated mass-shift -1.9904	-1.9904	106	0.2440
+Unannotated mass-shift -1.0158	-1.0158	85	0.1960
+Unannotated mass-shift -2.0656	-2.0656	84	0.1940
+2-amino-3-oxo-butanoic_acid	-2.01565	80	0.1850
+Third isotopic peak	3.0070500000000004	79	0.1830
+Unannotated mass-shift 11.0044	11.0044	78	0.1800
+Unannotated mass-shift -0.0930	-0.093	78	0.1800
+Lysine oxidation to aminoadipic semialdehyde	-1.031634	77	0.1780
+Unannotated mass-shift -0.9650	-0.965	75	0.1740
+Unannotated mass-shift 0.0978	0.0978	69	0.1590
+di-Methylation/Acetaldehyde +28/Ethylation	28.0313	68	0.1570
+hydroxymethyl/formaldehyde induced modifications	30.010565	66	0.1520
+Deletion of G	-57.021461486816406	57	0.1320
+Unannotated mass-shift -1.9314	-1.9314	57	0.1320
+formaldehyde adduct	12.0	55	0.1270
+Unannotated mass-shift -0.1046	-0.1046	54	0.1240
+Pyro-Glu from E + Methylation Medium	-0.979006	47	0.1080
+Unannotated mass-shift -46.0176	-46.0176	46	0.1060
+proline oxidation to pyroglutamic acid/Tryptophan oxidation to oxolactone/aldehyde and ketone modifications	13.979265	46	0.1060
+Replacement of 2 protons by nickel	55.919696	44	0.1010
+Unannotated mass-shift 404.1708	404.1708	41	0.0950
+Replacement of 3 protons by iron	52.911464	41	0.0950
+Unannotated mass-shift 350.1082	350.1082	33	0.0760
+Replacement of 3 protons by aluminium	23.958063	32	0.0740
+Unannotated mass-shift 332.0964	332.0964	32	0.0740
+N-pyruvic acid 2-iminyl	70.005479	29	0.0670
+Phosphorylation	79.966331	25	0.0580
+persulfide	31.972071	24	0.0550
+Unannotated mass-shift -98.0472	-98.0472	23	0.0530
+Addition of arginine due to transpeptidation/Addition of R	156.101111	22	0.0510
+Aminoethylbenzenesulfonylation	183.035399	22	0.0510
+Levuglandinyl-lysine anhyropyrrole adduct	298.19328	19	0.0440
+Unannotated mass-shift 102.0310	102.031	17	0.0390
+Hexose	162.052824	15	0.0350
+Acetaldehyde +26	26.01565	15	0.0350
+Addition of lysine due to transpeptidation/Addition of K	128.094963	14	0.0320
+tri-Methylation/Propyl	42.04695	14	0.0320
+cysteine oxidation to cysteic acid	47.984744	14	0.0320
+Unannotated mass-shift 20.9556	20.9556	13	0.0300
+Unannotated mass-shift -0.1180	-0.118	13	0.0300
+Diethylation, analogous to Dimethylation	56.0626	12	0.0280
+Unannotated mass-shift 1.0506	1.0506	11	0.0250
+Iodoacetic acid derivative w/ 13C label	60.012189	10	0.0230
+Unannotated mass-shift 0.1086	0.1086	10	0.0230
+Deuterium Methylation of Lysine	16.028204	10	0.0230
+deamidation followed by esterification with ethanol	29.015316	10	0.0230

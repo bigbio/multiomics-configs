@@ -1,0 +1,84 @@
+Modification	Mass Shift	dataset01_PSMs	dataset01_percent_PSMs
+None	0.0	10325	49.6680
+Iodoacetamide derivative/Addition of Glycine/Addition of G	57.021464	753	3.6230
+Unannotated mass-shift -91.0092	-91.0092	746	3.5870
+Deamidation	0.984016	448	2.1540
+Unannotated mass-shift -116.0596	-116.0596	428	2.0590
+Pyro-glu from Q/Loss of ammonia	-17.026549	425	2.0440
+Replacement of proton by potassium	37.955882	354	1.7030
+First isotopic peak	1.00235	304	1.4620
+Dehydration/Pyro-glu from E	-18.010565	302	1.4530
+persulfide	31.972071	250	1.2020
+Monobromobimane derivative	190.074228	196	0.9430
+Unannotated mass-shift 22.9356	22.9356	183	0.8800
+Oxidation or Hydroxylation	15.994915	180	0.8660
+Unannotated mass-shift 61.9820	61.982	161	0.7750
+Unannotated mass-shift 404.1720	404.172	157	0.7560
+Unannotated mass-shift 350.1082	350.1082	141	0.6780
+Unannotated mass-shift -9.0368	-9.0368	134	0.6450
+tri-Methylation/Propyl	42.04695	133	0.6400
+dihydroxy	31.989829	122	0.5870
+Carbamylation	43.005814	121	0.5820
+Second isotopic peak	2.0047	105	0.5050
+tryptophan oxidation to kynurenin	3.994915	104	0.5000
+Sodium adduct	21.981943	99	0.4760
+biotin hydrazide labeled acrolein addition +298	298.146347	96	0.4620
+Addition of lysine due to transpeptidation/Addition of K	128.094963	95	0.4570
+Isotopic peak error	-1.00235	91	0.4380
+Unannotated mass-shift -98.0474	-98.0474	89	0.4280
+deuterated methyl ester	17.03448	84	0.4040
+Hexose	162.052824	83	0.3990
+Unannotated mass-shift 392.1360	392.136	69	0.3320
+Formylation	27.994915	67	0.3220
+Unannotated mass-shift 259.0992	259.0992	66	0.3170
+Unannotated mass-shift -148.0314	-148.0314	64	0.3080
+Unannotated mass-shift 28.0058	28.0058	63	0.3030
+formaldehyde adduct	12.0	63	0.3030
+Unannotated mass-shift 303.1608	303.1608	53	0.2550
+Unannotated mass-shift 6.9410	6.941	50	0.2410
+Replacement of 3 protons by iron	52.911464	50	0.2410
+Third isotopic peak	3.0070500000000004	50	0.2410
+2-amino-3-oxo-butanoic_acid	-2.01565	47	0.2260
+Unannotated mass-shift 0.0262	0.0262	44	0.2110
+Unannotated mass-shift 248.0462	248.0462	43	0.2070
+Proline oxidation to pyrrolidinone/Decarboxylation	-30.010565	42	0.2020
+Methylation	14.01565	41	0.1970
+Unannotated mass-shift 404.1840	404.184	40	0.1920
+Iodoacetic acid derivative	58.005479	30	0.1440
+Unannotated mass-shift 424.3344	424.3344	29	0.1400
+Unannotated mass-shift 284.1252	284.1252	28	0.1350
+lactic acid from N-term Ser/ISD (z+2)-series	-15.010899	28	0.1350
+Unannotated mass-shift -0.0528	-0.0528	26	0.1250
+Deletion of G	-57.021461486816406	25	0.1200
+Unannotated mass-shift 473.2306	473.2306	25	0.1200
+Unannotated mass-shift -65.0896	-65.0896	23	0.1110
+MDA adduct +54/Methylglyoxal-derived hydroimidazolone/Alkene fragment of DSSO crosslinker	54.010565	22	0.1060
+oxidized Lysine biotinylated with biotin hydrazide	241.088497	22	0.1060
+hydroxymethyl/formaldehyde induced modifications	30.010565	19	0.0910
+Unannotated mass-shift 8.9304	8.9304	18	0.0870
+2,3-dihydro-2,2-dimethyl-7-benzofuranol N-methyl carbamate	58.029289	17	0.0820
+Unannotated mass-shift 75.0120	75.012	17	0.0820
+Addition of arginine due to transpeptidation/Addition of R	156.101111	16	0.0770
+Unannotated mass-shift 0.0374	0.0374	16	0.0770
+amidination of lysines or N-terminal amines with methyl acetimidate	41.026549	15	0.0720
+Unannotated mass-shift 215.1598	215.1598	15	0.0720
+Unannotated mass-shift -119.1270	-119.127	14	0.0670
+Acetylation	42.010565	14	0.0670
+Unannotated mass-shift 376.1764	376.1764	14	0.0670
+Unannotated mass-shift -12.9956	-12.9956	13	0.0630
+Unannotated mass-shift 42.1464	42.1464	13	0.0630
+Proline oxidation to 5-hydroxy-2-aminovaleric acid	18.010565	13	0.0630
+Unannotated mass-shift 487.1352	487.1352	12	0.0580
+O-pinacolylmethylphosphonylation	162.080967	12	0.0580
+Unannotated mass-shift 236.0934	236.0934	12	0.0580
+Dehydroalanine (from Cysteine)	-33.987721	12	0.0580
+Unannotated mass-shift 441.2564	441.2564	12	0.0580
+Unannotated mass-shift -72.9970	-72.997	11	0.0530
+Phosphorylation	79.966331	11	0.0530
+Cleavage product of EGS protein crosslinks by hydroylamine treatment/Addition of D	115.026943	11	0.0530
+Unannotated mass-shift 52.1178	52.1178	11	0.0530
+Replacement of 2 protons by iron	53.919289	10	0.0480
+Unannotated mass-shift 0.8436	0.8436	10	0.0480
+Unannotated mass-shift 190.0900	190.09	10	0.0480
+Unannotated mass-shift 320.0012	320.0012	10	0.0480
+Unannotated mass-shift 370.2290	370.229	10	0.0480

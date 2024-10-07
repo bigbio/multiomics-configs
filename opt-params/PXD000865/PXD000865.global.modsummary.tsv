@@ -1,0 +1,73 @@
+Modification	Mass Shift	dataset01_PSMs	dataset01_percent_PSMs
+None	0.0	34231	71.2140
+Acetylation	42.010565	2234	4.6480
+Replacement of 3 protons by iron	52.911464	1119	2.3280
+Deamidation	0.984016	911	1.8950
+First isotopic peak	1.00235	867	1.8050
+Isotopic peak error	-1.00235	838	1.7430
+Oxidation or Hydroxylation	15.994915	461	0.9590
+Pyro-glu from Q/Loss of ammonia	-17.026549	451	0.9390
+Dehydration/Pyro-glu from E	-18.010565	428	0.8920
+Methylation	14.01565	306	0.6370
+Lysine oxidation to aminoadipic semialdehyde	-1.031634	278	0.5790
+2-amino-3-oxo-butanoic_acid	-2.01565	269	0.5600
+Acetaldehyde +26	26.01565	237	0.4930
+Replacement of 2 protons by nickel	55.919696	220	0.4570
+dihydroxy	31.989829	210	0.4370
+Unannotated mass-shift 11.0042	11.0042	204	0.4240
+Unannotated mass-shift 0.0422	0.0422	190	0.3960
+Second isotopic peak	2.0047	182	0.3790
+Unannotated mass-shift 239.1296	239.1296	134	0.2790
+Unannotated mass-shift 0.9602	0.9602	128	0.2660
+formaldehyde adduct	12.0	125	0.2600
+Unannotated mass-shift 17.9556	17.9556	123	0.2560
+Unannotated mass-shift -3.0862	-3.0862	110	0.2290
+Unannotated mass-shift -116.0588	-116.0588	108	0.2250
+Formylation	27.994915	93	0.1940
+Replacement of proton by potassium	37.955882	87	0.1810
+Unannotated mass-shift -2.0530	-2.053	87	0.1820
+Third isotopic peak	3.0070500000000004	78	0.1630
+Unannotated mass-shift 0.0598	0.0598	73	0.1520
+proline oxidation to pyroglutamic acid/Tryptophan oxidation to oxolactone/aldehyde and ketone modifications	13.979265	71	0.1480
+Unannotated mass-shift 1.8828	1.8828	71	0.1480
+di-Methylation/Acetaldehyde +28/Ethylation	28.0313	70	0.1460
+Iodoacetic acid derivative	58.005479	68	0.1410
+Sodium adduct	21.981943	67	0.1390
+Unannotated mass-shift 0.0714	0.0714	64	0.1330
+Deuterium Methylation of Lysine	16.028204	54	0.1130
+Unannotated mass-shift -0.9110	-0.911	49	0.1020
+Deletion of G	-57.021461486816406	45	0.0940
+Crotonylation	68.026215	45	0.0940
+Addition of lysine due to transpeptidation/Addition of K	128.094963	44	0.0920
+Addition of arginine due to transpeptidation/Addition of R	156.101111	43	0.0900
+Acetylhypusine/Addition of I/Addition of L	113.084064	43	0.0890
+Unannotated mass-shift -43.0172	-43.0172	41	0.0850
+Replacement of 2 protons by iron	53.919289	40	0.0830
+Unannotated mass-shift 48.9158	48.9158	40	0.0830
+Unannotated mass-shift 0.9398	0.9398	38	0.0790
+Unannotated mass-shift -9.0382	-9.0382	33	0.0690
+Unannotated mass-shift -91.0082	-91.0082	32	0.0660
+Unannotated mass-shift 234.1122	234.1122	32	0.0670
+Unannotated mass-shift 41.9912	41.9912	30	0.0620
+Unannotated mass-shift -0.1108	-0.1108	30	0.0620
+Unannotated mass-shift 88.0144	88.0144	28	0.0580
+persulfide	31.972071	27	0.0560
+tri-Methylation/Propyl	42.04695	27	0.0560
+Phosphorylation	79.966331	25	0.0520
+Acetyl_13C(6) 15N(2) Silac label	50.024764	24	0.0500
+Unannotated mass-shift -0.0954	-0.0954	23	0.0480
+Michael addition of BHT quinone methide to Cysteine and Lysine	218.167065	22	0.0460
+deamidation followed by esterification with ethanol	29.015316	22	0.0460
+glycerylphosphorylethanolamine	197.04531	20	0.0420
+Unannotated mass-shift 102.0316	102.0316	19	0.0400
+Aminoethylbenzenesulfonylation	183.035399	19	0.0400
+Unannotated mass-shift 2.0208	2.0208	18	0.0370
+Unannotated mass-shift 258.1018	258.1018	14	0.0290
+Guanidination/amidino	42.021798	13	0.0270
+Addition of F	147.0684051513672	13	0.0270
+hydroxymethyl/formaldehyde induced modifications	30.010565	12	0.0250
+Unannotated mass-shift -0.8950	-0.895	11	0.0230
+HexNAc NeuAc	494.174789	11	0.0230
+tryptophan oxidation to kynurenin	3.994915	11	0.0230
+Carbamylation	43.005814	10	0.0210
+Unannotated mass-shift -98.0458	-98.0458	10	0.0210

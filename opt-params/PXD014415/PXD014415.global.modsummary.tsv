@@ -1,0 +1,124 @@
+Modification	Mass Shift	dataset01_PSMs	dataset01_percent_PSMs
+None	0.0	163172	73.0470
+Pyro-glu from Q/Loss of ammonia	-17.026549	6681	2.9900
+Sodium adduct	21.981943	5623	2.5180
+First isotopic peak	1.00235	4947	2.2170
+Isotopic peak error	-1.00235	3989	1.7840
+Deamidation	0.984016	3250	1.4550
+Formylation	27.994915	2041	0.9140
+2-amino-3-oxo-butanoic_acid	-2.01565	1737	0.7790
+Amidation	-0.984016	1551	0.6940
+Dehydration/Pyro-glu from E	-18.010565	1465	0.6560
+Replacement of proton by potassium	37.955882	799	0.3580
+Second isotopic peak	2.0047	794	0.3560
+Unannotated mass-shift -2.0398	-2.0398	789	0.3520
+Unannotated mass-shift 1.9576	1.9576	701	0.3140
+Unannotated mass-shift 1.9046	1.9046	611	0.2740
+Unannotated mass-shift -1.9790	-1.979	577	0.2580
+Unannotated mass-shift -2.0628	-2.0628	541	0.2410
+Third isotopic peak	3.0070500000000004	505	0.2240
+Unannotated mass-shift 1.9324	1.9324	483	0.2170
+Unannotated mass-shift 2.0522	2.0522	481	0.2160
+Unannotated mass-shift -1.9578	-1.9578	474	0.2110
+Pyro-Glu from E + Methylation	-3.994915	453	0.2030
+lactic acid from N-term Ser/ISD (z+2)-series	-15.010899	443	0.1970
+formaldehyde adduct	12.0	430	0.1920
+Unannotated mass-shift 2.0844	2.0844	403	0.1820
+Methylation	14.01565	356	0.1600
+Phosphorylation	79.966331	347	0.1560
+Unannotated mass-shift -2.1078	-2.1078	335	0.1500
+Unannotated mass-shift 5.9860	5.986	314	0.1410
+Unannotated mass-shift -1.9214	-1.9214	302	0.1360
+Unannotated mass-shift -1.9430	-1.943	295	0.1330
+Unannotated mass-shift 1.9216	1.9216	289	0.1300
+Unannotated mass-shift -2.0510	-2.051	275	0.1230
+Aminoethylbenzenesulfonylation	183.035399	266	0.1190
+Unannotated mass-shift 3.1020	3.102	251	0.1140
+Unannotated mass-shift -2.0264	-2.0264	251	0.1120
+di-Methylation/Acetaldehyde +28/Ethylation	28.0313	233	0.1040
+Unannotated mass-shift -2.0738	-2.0738	231	0.1030
+Unannotated mass-shift 98.0366	98.0366	214	0.0960
+Replacement of 3 protons by iron	52.911464	212	0.0950
+deuterated methyl ester	17.03448	212	0.0950
+Oxidation or Hydroxylation	15.994915	193	0.0860
+reduction	-15.994915	184	0.0830
+Unannotated mass-shift 2.8648	2.8648	177	0.0790
+Unannotated mass-shift 64.0312	64.0312	176	0.0790
+proline oxidation to pyroglutamic acid/Tryptophan oxidation to oxolactone/aldehyde and ketone modifications	13.979265	176	0.0790
+Unannotated mass-shift -1.8924	-1.8924	158	0.0710
+Unannotated mass-shift 2.0694	2.0694	152	0.0680
+Loss of ammonia (15N)	-18.023584	149	0.0670
+Trideuteration	3.01883	140	0.0630
+Unannotated mass-shift 2.8424	2.8424	134	0.0600
+Unannotated mass-shift -2.1508	-2.1508	132	0.0590
+Unannotated mass-shift -1.9104	-1.9104	131	0.0590
+dihydroxy	31.989829	130	0.0580
+Unannotated mass-shift -27.0108	-27.0108	128	0.0580
+Monomethylated Arg13C(6) 15N(4)	24.023919	125	0.0560
+Unannotated mass-shift 21.9518	21.9518	120	0.0540
+carbamidomethylated Cys that undergoes beta-elimination and Michael addition of methylamine	-2.945522	114	0.0510
+Unannotated mass-shift -1.8796	-1.8796	114	0.0510
+Replacement of 2 protons by magnesium	21.969392	113	0.0500
+Acetylation	42.010565	98	0.0440
+Addition of lysine due to transpeptidation/Addition of K	128.094963	90	0.0400
+Unannotated mass-shift 164.9702	164.9702	88	0.0390
+DTT adduct of cysteine	151.996571	81	0.0360
+Unannotated mass-shift -31.9714	-31.9714	77	0.0350
+Unannotated mass-shift 3.7902	3.7902	68	0.0310
+oxoalanine	-17.992806	60	0.0270
+Acetaldehyde +26	26.01565	58	0.0260
+Cleavage product of EGS protein crosslinks by hydroylamine treatment/Addition of D	115.026943	54	0.0240
+Unannotated mass-shift -28.0320	-28.032	51	0.0220
+Unannotated mass-shift 173.0506	173.0506	51	0.0230
+tri-Methylation/Propyl	42.04695	50	0.0220
+Unannotated mass-shift 7.9650	7.965	44	0.0200
+nitrosylation	28.990164	44	0.0200
+MDA adduct +62	62.01565	41	0.0180
+Carboxylation	43.989829	41	0.0180
+Unannotated mass-shift -127.1108	-127.1108	40	0.0180
+Addition of arginine due to transpeptidation/Addition of R	156.101111	40	0.0180
+2H(3) 13C(1) monomethylated Arg13C(6) 15N(4)	28.046104	39	0.0170
+Unannotated mass-shift 22.0648	22.0648	39	0.0180
+tryptophan oxidation to kynurenin	3.994915	37	0.0170
+ubiquitinylation residue/Double Carbamidomethylation/Addition of N	114.042927	32	0.0140
+Unannotated mass-shift 2.9756	2.9756	30	0.0130
+Diethylation, analogous to Dimethylation	56.0626	29	0.0130
+Unannotated mass-shift -17.1030	-17.103	29	0.0130
+Deuterium Methylation of Lysine	16.028204	28	0.0130
+Unannotated mass-shift 36.9166	36.9166	28	0.0130
+Unannotated mass-shift -1.8674	-1.8674	27	0.0120
+Iodoacetic acid derivative	58.005479	27	0.0120
+amidination of lysines or N-terminal amines with methyl acetimidate	41.026549	24	0.0110
+glycerylphosphorylethanolamine	197.04531	24	0.0110
+Unannotated mass-shift -1.8312	-1.8312	24	0.0110
+Removal of initiator methionine from protein N-terminus, then acetylation of the new N-terminus	-89.02992	23	0.0100
+Deletion of A	-71.037109375	21	0.0090
+Tryptophan oxidation to beta-unsaturated-2,4-bis-tryptophandione	27.958529	19	0.0090
+Unannotated mass-shift -1.8570	-1.857	18	0.0080
+persulfide	31.972071	18	0.0080
+Iodoacetamide derivative/Addition of Glycine/Addition of G	57.021464	18	0.0080
+monoglutamyl/Nmethylmaleimidehydrolysis/Photo-induced Proline adduct/Addition of E	129.042593	17	0.0080
+N-Acetylhexosamine	203.079373	17	0.0080
+13C(9) 15N(1) Silac label	10.027228	16	0.0070
+Unannotated mass-shift 177.0828	177.0828	16	0.0070
+Homoserine lactone/Prompt loss of side chain from oxidised Met	-48.003371	15	0.0070
+Shimadzu NBS-12C	152.988449	15	0.0070
+Unannotated mass-shift 3.1730	3.173	15	0.0070
+Methionine replacement by azido homoalanine	-4.986324	15	0.0070
+Unannotated mass-shift 3.1920	3.192	14	0.0060
+Unannotated mass-shift -1.6200	-1.62	14	0.0060
+Unannotated mass-shift 234.1118	234.1118	13	0.0060
+Unannotated mass-shift 23.1002	23.1002	13	0.0060
+Unannotated mass-shift 21.8742	21.8742	13	0.0060
+SulfurDioxide	63.9619	13	0.0060
+Tris-quenched monolink of DSS/BS3 crosslinker	259.141973	12	0.0050
+deamidation followed by esterification with ethanol	29.015316	12	0.0050
+Deamidation followed by a methylation	14.999666	11	0.0050
+Unannotated mass-shift 183.0548	183.0548	11	0.0050
+Unannotated mass-shift -1.8124	-1.8124	11	0.0050
+Unannotated mass-shift 21.8342	21.8342	11	0.0050
+Unannotated mass-shift 313.1272	313.1272	10	0.0040
+Unannotated mass-shift 402.1936	402.1936	10	0.0040
+Deletion of I/Deletion of L	-113.08406066894531	10	0.0040
+Unannotated mass-shift 2.4906	2.4906	10	0.0040
+Unannotated mass-shift 425.2632	425.2632	10	0.0040

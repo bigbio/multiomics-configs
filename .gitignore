@@ -2,3 +2,7 @@
 .idea/
 ~*
 *.DS_Store
+/pycls/cellosaurus.txt
+/pycls/small.sh
+/pycls/age_cellosaurus.txt
+/databases/fdrbench-0.0.1/

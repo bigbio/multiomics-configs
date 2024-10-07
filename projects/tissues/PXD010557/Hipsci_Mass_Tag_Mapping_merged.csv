@@ -1,0 +1,241 @@
+EXPERIMENT,MASS_TAG,CELL_LINE,ID,DISEASE,SEX,MERGED,individual code,Sex,Ethnicity,Disease,Age
+pt7430,Reporter intensity 4,aecv_2,10201,Monogenic diabetes,Female,Reporter.intensity.4.pt7430,aecv,Female,Caucasian,Monogenic diabetes,60-64
+pt7430,Reporter intensity 5,aecv_3,10202,Monogenic diabetes,Female,Reporter.intensity.5.pt7430,aecv,Female,Caucasian,Monogenic diabetes,60-64
+pt6380,Reporter intensity 5,aehn_2,10049,Normal,Female,Reporter.intensity.5.pt6380,aehn,Female,null,Normal,null
+pt6380,Reporter intensity 4,aehn_22,10048,Normal,Female,Reporter.intensity.4.pt6380,aehn,Female,null,Normal,null
+pt6390,Reporter intensity 7,aiid_6,10141,Usher syndrome and congenital eye defects,Male,Reporter.intensity.7.pt6390,aiid,Male,Caucasian,Usher syndrome and congenital eye defects,50-54
+pt6385,Reporter intensity 9,aion_3,10098,Normal,Male,Reporter.intensity.9.pt6385,aion,Male,White - White British,Normal,60-64
+pt6387,Reporter intensity 4,aizi_3,10111,Normal,Female,Reporter.intensity.4.pt6387,aizi,Female,White - White British,Normal,50-54
+pt6388,Reporter intensity 2,aizi_1,10118,Normal,Female,Reporter.intensity.2.pt6388,aizi,Female,White - White British,Normal,50-54
+pt7431,Reporter intensity 6,aomr_5,10212,Monogenic diabetes,Male,Reporter.intensity.6.pt7431,aomr,Male,Caucasian,Monogenic diabetes,40-44
+pt7431,Reporter intensity 7,aomr_6,10213,Monogenic diabetes,Male,Reporter.intensity.7.pt7431,aomr,Male,Caucasian,Monogenic diabetes,40-44
+pt6386,Reporter intensity 7,aowh_2,10105,Normal,Female,Reporter.intensity.7.pt6386,aowh,Female,White - White British,Normal,65-69
+pt6383,Reporter intensity 8,babz_3,10079,Normal,Female,Reporter.intensity.8.pt6383,babz,Female,White - White British,Normal,50-54
+pt6984,Reporter intensity 4,bawa_1,10174,Normal,Female,Reporter.intensity.4.pt6984,bawa,Female,null,Normal,null
+pt6983,Reporter intensity 2,bohf_1,10163,Normal,Male,Reporter.intensity.2.pt6983,bohf,Male,null,Normal,null
+pt6391,Reporter intensity 9,boho_3,10152,Hereditary cerebellar ataxia,Female,Reporter.intensity.9.pt6391,boho,Female,Caucasian,Hereditary cerebellar ataxia,45-49
+pt6374,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt6374,bubh,Female,White - White British,Normal,35Y-39Y
+pt6375,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt6375,bubh,Female,White - White British,Normal,35Y-39Y
+pt6376,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt6376,bubh,Female,White - White British,Normal,35Y-39Y
+pt6377,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt6377,bubh,Female,White - White British,Normal,35Y-39Y
+pt6379,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt6379,bubh,Female,White - White British,Normal,35Y-39Y
+pt6380,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt6380,bubh,Female,White - White British,Normal,35Y-39Y
+pt6381,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt6381,bubh,Female,White - White British,Normal,35Y-39Y
+pt6382,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt6382,bubh,Female,White - White British,Normal,35Y-39Y
+pt6383,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt6383,bubh,Female,White - White British,Normal,35Y-39Y
+pt6384,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt6384,bubh,Female,White - White British,Normal,35Y-39Y
+pt6385,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt6385,bubh,Female,White - White British,Normal,35Y-39Y
+pt6386,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt6386,bubh,Female,White - White British,Normal,35Y-39Y
+pt6387,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt6387,bubh,Female,White - White British,Normal,35Y-39Y
+pt6388,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt6388,bubh,Female,White - White British,Normal,35Y-39Y
+pt6389,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt6389,bubh,Female,White - White British,Normal,35Y-39Y
+pt6390,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt6390,bubh,Female,White - White British,Normal,35Y-39Y
+pt6391,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt6391,bubh,Female,White - White British,Normal,35Y-39Y
+pt6392,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt6392,bubh,Female,White - White British,Normal,35Y-39Y
+pt6983,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt6983,bubh,Female,White - White British,Normal,35Y-39Y
+pt6984,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt6984,bubh,Female,White - White British,Normal,35Y-39Y
+pt7422,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt7422,bubh,Female,White - White British,Normal,35Y-39Y
+pt7428,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt7428,bubh,Female,White - White British,Normal,35Y-39Y
+pt7430,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt7430,bubh,Female,White - White British,Normal,35Y-39Y
+pt7431,Reporter intensity 1,bubh_3,10000,Normal,Female,Reporter.intensity.1.pt7431,bubh,Female,White - White British,Normal,35Y-39Y
+pt6387,Reporter intensity 6,cekz_1,10113,Monogenic diabetes,Male,Reporter.intensity.6.pt6387,cekz,Male,German (White),Monogenic diabetes,45540
+pt7428,Reporter intensity 5,ciwj_1,10193,Normal,Female,Reporter.intensity.5.pt7428,ciwj,Female,White - White British,Normal,35-39
+pt7428,Reporter intensity 10,ciwj_2,10198,Normal,Female,Reporter.intensity.10.pt7428,ciwj,Female,White - White British,Normal,35-39
+pt6388,Reporter intensity 10,corn_1,10126,Normal,Male,Reporter.intensity.10.pt6388,corn,Male,null,Normal,null
+pt6392,Reporter intensity 6,dacv_6,10158,Hereditary cerebellar ataxia,Male,Reporter.intensity.6.pt6392,dacv,Male,Caucasian,Hereditary cerebellar ataxia,70-74
+pt6385,Reporter intensity 10,denw_6,10099,Normal,Male,Reporter.intensity.10.pt6385,denw,Male,White - White British,Normal,45-49
+pt6388,Reporter intensity 3,diku_1,10119,Normal,Female,Reporter.intensity.3.pt6388,diku,Female,White - White British,Normal,60-64
+pt6376,Reporter intensity 2,dixh_2,10019,Monogenic diabetes,Female,Reporter.intensity.2.pt6376,dixh,Female,Caucasian,Monogenic diabetes,75-79
+pt6377,Reporter intensity 10,eafb_1,10036,Bardet-Biedl syndrome,Male,Reporter.intensity.10.pt6377,eafb,Male,Caucasian,Bardet-Biedl syndrome,25-29
+pt6377,Reporter intensity 5,eavo_1,10031,Bardet-Biedl syndrome,Female,Reporter.intensity.5.pt6377,eavo,Female,White,Bardet-Biedl syndrome,30-34
+pt6374,Reporter intensity 7,eevy_7,10006,Monogenic diabetes,Male,Reporter.intensity.7.pt6374,eevy,Male,Caucasian,Monogenic diabetes,15-19
+pt6374,Reporter intensity 8,eevy_6,10007,Monogenic diabetes,Male,Reporter.intensity.8.pt6374,eevy,Male,Caucasian,Monogenic diabetes,15-19
+pt6387,Reporter intensity 2,eika_2,10109,Normal,Male,Reporter.intensity.2.pt6387,eika,Male,White - White British,Normal,45-49
+pt7430,Reporter intensity 2,eisk_3,10199,Bardet-Biedl syndrome,Male,Reporter.intensity.2.pt7430,eisk,Male,White - Other,Bardet-Biedl syndrome,30-34
+pt7430,Reporter intensity 3,eisk_6,10200,Bardet-Biedl syndrome,Male,Reporter.intensity.3.pt7430,eisk,Male,White - Other,Bardet-Biedl syndrome,30-34
+pt6375,Reporter intensity 6,eoxi_6,10014,Monogenic diabetes,Male,Reporter.intensity.6.pt6375,eoxi,Male,Caucasian,Monogenic diabetes,20-24
+pt6984,Reporter intensity 9,fafq_1,10179,Normal,Male,Reporter.intensity.9.pt6984,fafq,Male,White - White British,Normal,60-64
+pt6374,Reporter intensity 6,fasu_2,10005,Monogenic diabetes,Female,Reporter.intensity.6.pt6374,fasu,Female,Cauc,Monogenic diabetes,20-24
+pt6384,Reporter intensity 8,fawm_2,10088,Normal,Female,Reporter.intensity.8.pt6384,fawm,Female,White - White British,Normal,70-74
+pt6384,Reporter intensity 9,fawm_4,10089,Normal,Female,Reporter.intensity.9.pt6384,fawm,Female,White - White British,Normal,70-74
+pt6387,Reporter intensity 7,febc_1,10114,Normal,Female,Reporter.intensity.7.pt6387,febc,Female,null,Normal,null
+pt6387,Reporter intensity 9,fejf_2,10116,Normal,Male,Reporter.intensity.9.pt6387,fejf,Male,null,Normal,null
+pt6390,Reporter intensity 5,fiwt_3,10139,Usher syndrome and congenital eye defects,Female,Reporter.intensity.5.pt6390,fiwt,Female,Caucasian,Usher syndrome and congenital eye defects,40-44
+pt6983,Reporter intensity 3,fixm_2,10164,Bardet-Biedl syndrome,Male,Reporter.intensity.3.pt6983,fixm,Male,Caucasian,Bardet-Biedl syndrome,25-29
+pt6382,Reporter intensity 2,fovu_2,10064,Bardet-Biedl syndrome,Male,Reporter.intensity.2.pt6382,fovu,#N/A,#N/A,#N/A,#N/A
+pt6382,Reporter intensity 10,fovu_5,10072,Bardet-Biedl syndrome,Male,Reporter.intensity.10.pt6382,fovu,#N/A,#N/A,#N/A,#N/A
+pt6377,Reporter intensity 6,foyj_1,10032,Bardet-Biedl syndrome,Female,Reporter.intensity.6.pt6377,foyj,#N/A,#N/A,#N/A,#N/A
+pt6376,Reporter intensity 8,fuai_1,10025,Monogenic diabetes,Female,Reporter.intensity.8.pt6376,fuai,Female,Mixed(English/Cuban),Monogenic diabetes,45-49
+pt6375,Reporter intensity 2,fuhz_1,10010,Bardet-Biedl syndrome,Male,Reporter.intensity.2.pt6375,fuhz,Male,Asian,Bardet-Biedl syndrome,30-34
+pt6376,Reporter intensity 3,funy_1,10020,Bardet-Biedl syndrome,Male,Reporter.intensity.3.pt6376,funy,Male,White - White British,Bardet-Biedl syndrome,20-24
+pt7430,Reporter intensity 10,gawh_7,10207,Bardet-Biedl syndrome,Female,Reporter.intensity.10.pt7430,gawh,Female,White,Bardet-Biedl syndrome,30-34
+pt6389,Reporter intensity 5,gawh_12,10130,Bardet-Biedl syndrome,Female,Reporter.intensity.5.pt6389,gawh2,#N/A,#N/A,#N/A,#N/A
+pt6374,Reporter intensity 4,gibe_2,10003,Bardet-Biedl syndrome,Male,Reporter.intensity.4.pt6374,gibe,Male,White British,Bardet-Biedl syndrome,35-39
+pt7422,Reporter intensity 4,gine_2,10183,Normal,Female,Reporter.intensity.4.pt7422,gine,Female,White - White British,Normal,65-69
+pt6983,Reporter intensity 7,giuf_1,10168,Normal,Female,Reporter.intensity.7.pt6983,giuf,Female,null,Normal,null
+pt6983,Reporter intensity 9,giuo_5,10170,Normal,Male,Reporter.intensity.9.pt6983,giuo,Male,null,Normal,null
+pt6375,Reporter intensity 7,guyj_2,10015,Monogenic diabetes,Female,Reporter.intensity.7.pt6375,guyj,Female,Caucasian,Monogenic diabetes,50-54
+pt6379,Reporter intensity 4,hayt_3,10039,Normal,Male,Reporter.intensity.4.pt6379,hayt,Male,White - Other,Normal,70-74
+pt6379,Reporter intensity 5,hayt_1,10040,Normal,Male,Reporter.intensity.5.pt6379,hayt,Male,White - Other,Normal,70-74
+pt6386,Reporter intensity 2,hecn_3,10100,Normal,Female,Reporter.intensity.2.pt6386,hecn,Female,White - White British,Normal,60-64
+pt7422,Reporter intensity 8,hecn_6,10187,Normal,Female,Reporter.intensity.8.pt7422,hecn,Female,White - White British,Normal,60-64
+pt6983,Reporter intensity 5,hegp_3,10166,Normal,Female,Reporter.intensity.5.pt6983,hegp,Female,null,Normal,null
+pt6376,Reporter intensity 6,hidy_3,10023,Bardet-Biedl syndrome,Male,Reporter.intensity.6.pt6376,hidy,Male,Caucasian,Bardet-Biedl syndrome,60-64
+pt6376,Reporter intensity 7,hidy_4,10024,Bardet-Biedl syndrome,Male,Reporter.intensity.7.pt6376,hidy,Male,Caucasian,Bardet-Biedl syndrome,60-64
+pt6984,Reporter intensity 2,hoik_1,10172,Normal,Female,Reporter.intensity.2.pt6984,hoik,Female,White - White British,Normal,40-44
+pt6376,Reporter intensity 9,hutq_1,10026,Bardet-Biedl syndrome,Female,Reporter.intensity.9.pt6376,hutq,Female,Caucasian,Bardet-Biedl syndrome,25-29
+pt6392,Reporter intensity 10,ierp_4,10162,Kabuki syndrome,Female,Reporter.intensity.10.pt6392,ierp,Female,White British,Kabuki syndrome,40-44
+pt6385,Reporter intensity 7,iezw_2,10096,Normal,Female,Reporter.intensity.7.pt6385,iezw,Female,White - White British,Normal,55-59
+pt6379,Reporter intensity 9,iisa_1,10044,Normal,Male,Reporter.intensity.9.pt6379,iisa,Male,White - White British,Normal,55-59
+pt6379,Reporter intensity 10,iisa_3,10045,Normal,Male,Reporter.intensity.10.pt6379,iisa,Male,White - White British,Normal,55-59
+pt6385,Reporter intensity 2,iiyk_4,10091,Normal,Female,Reporter.intensity.2.pt6385,iiyk,Female,White - White British,Normal,50-54
+pt6386,Reporter intensity 5,iiyk_2,10103,Normal,Female,Reporter.intensity.5.pt6386,iiyk,Female,White - White British,Normal,50-54
+pt6383,Reporter intensity 2,iudw_4,10073,Normal,Female,Reporter.intensity.2.pt6383,iudw,Female,White - White British,Normal,50-54
+pt6383,Reporter intensity 3,iudw_1,10074,Normal,Female,Reporter.intensity.3.pt6383,iudw,Female,White - White British,Normal,50-54
+pt6380,Reporter intensity 7,jejf_3,10051,Normal,Female,Reporter.intensity.7.pt6380,jejf,Female,White - White British,Normal,50-54
+pt6380,Reporter intensity 8,jejf_2,10052,Normal,Female,Reporter.intensity.8.pt6380,jejf,Female,White - White British,Normal,50-54
+pt6377,Reporter intensity 7,jetz_1,10033,Bardet-Biedl syndrome,Female,Reporter.intensity.7.pt6377,jetz,Female,Caucasian,Bardet-Biedl syndrome,40-44
+pt6381,Reporter intensity 2,kajh_3,10055,Normal,Female,Reporter.intensity.2.pt6381,kajh,Female,White - White British,Normal,60-64
+pt6381,Reporter intensity 10,kajh_2,10063,Normal,Female,Reporter.intensity.10.pt6381,kajh,Female,White - White British,Normal,60-64
+pt6390,Reporter intensity 6,kecw_4,10140,Bardet-Biedl syndrome,Female,Reporter.intensity.6.pt6390,kecw,#N/A,#N/A,#N/A,#N/A
+pt6390,Reporter intensity 8,kecw_3,10142,Bardet-Biedl syndrome,Female,Reporter.intensity.8.pt6390,kecw,#N/A,#N/A,#N/A,#N/A
+pt6376,Reporter intensity 10,kefk_2,10027,Monogenic diabetes,Male,Reporter.intensity.10.pt6376,kefk,Male,Bulgarian (White),Monogenic diabetes,20-24
+pt6385,Reporter intensity 5,keui_4,10094,Normal,Female,Reporter.intensity.5.pt6385,keui,Female,White - White British,Normal,50-54
+pt6983,Reporter intensity 6,kolf_2,10167,Normal,Male,Reporter.intensity.6.pt6983,kolf,Male,White - White British,Normal,55-59
+pt6391,Reporter intensity 3,kooz_5,10146,Monogenic diabetes,Female,Reporter.intensity.3.pt6391,kooz,Female,Caucasian,Monogenic diabetes,40-44
+pt6375,Reporter intensity 9,koqx_1,10017,Monogenic diabetes,Female,Reporter.intensity.9.pt6375,koqx,Female,Caucasian,Monogenic diabetes,25-29
+pt6984,Reporter intensity 10,kucg_2,10180,Normal,Male,Reporter.intensity.10.pt6984,kucg,Male,White - White British,Normal,65-69
+pt6379,Reporter intensity 2,kuco_1,10037,Normal,Female,Reporter.intensity.2.pt6379,kuco,Female,White - White British,Normal,65-69
+pt6392,Reporter intensity 2,kujn_5,10154,Bardet-Biedl syndrome,Female,Reporter.intensity.2.pt6392,kujn,Female,White - White British,Bardet-Biedl syndrome,15-19
+pt6389,Reporter intensity 3,kute_4,10128,Normal,Female,Reporter.intensity.3.pt6389,kute,Female,White - White British,Normal,25-29
+pt6388,Reporter intensity 4,kuxp_1,10120,Normal,Male,Reporter.intensity.4.pt6388,kuxp,Male,White - Other,Normal,25-29
+pt6382,Reporter intensity 5,laey_6,10067,Normal,Female,Reporter.intensity.5.pt6382,laey,Female,White - White British,Normal,70-74
+pt6382,Reporter intensity 6,laey_4,10068,Normal,Female,Reporter.intensity.6.pt6382,laey,Female,White - White British,Normal,70-74
+pt6392,Reporter intensity 4,laig_2,10156,Bardet-Biedl syndrome,Female,Reporter.intensity.4.pt6392,laig,Female,White,Bardet-Biedl syndrome,25-29
+pt6377,Reporter intensity 3,lavd_2,10029,Bardet-Biedl syndrome,Male,Reporter.intensity.3.pt6377,lavd,Male,Caucasian,Bardet-Biedl syndrome,40-44
+pt6386,Reporter intensity 3,lepk_1,10101,Normal,Female,Reporter.intensity.3.pt6386,lepk,Female,White - White British,Normal,60-64
+pt7422,Reporter intensity 9,lepk_4,10188,Normal,Female,Reporter.intensity.9.pt7422,lepk,Female,White - White British,Normal,60-64
+pt6389,Reporter intensity 6,letw_1,10131,Normal,Male,Reporter.intensity.6.pt6389,letw,Male,White - White British,Normal,70-74
+pt6391,Reporter intensity 5,lipl_5,10148,Bardet-Biedl syndrome,Male,Reporter.intensity.5.pt6391,lipl,#N/A,#N/A,#N/A,#N/A
+pt6392,Reporter intensity 8,lipl_2,10160,Bardet-Biedl syndrome,Male,Reporter.intensity.8.pt6392,lipl,#N/A,#N/A,#N/A,#N/A
+pt7428,Reporter intensity 4,liqa_1,10192,Normal,Female,Reporter.intensity.4.pt7428,liqa,Female,White - White British,Normal,65-69
+pt7428,Reporter intensity 9,liqa_6,10197,Normal,Female,Reporter.intensity.9.pt7428,liqa,Female,White - White British,Normal,65-69
+pt6374,Reporter intensity 2,lutt_6,10001,Monogenic diabetes,Female,Reporter.intensity.2.pt6374,lutt,Female,South Asian,Monogenic diabetes,0-4
+pt6390,Reporter intensity 2,mefc_2,10136,Usher syndrome and congenital eye defects,Female,Reporter.intensity.2.pt6390,mefc,Female,Asian,Usher syndrome and congenital eye defects,35-39
+pt6390,Reporter intensity 10,mefc_1,10144,Usher syndrome and congenital eye defects,Female,Reporter.intensity.10.pt6390,mefc,Female,Asian,Usher syndrome and congenital eye defects,35-39
+pt7431,Reporter intensity 10,mesr_4,10216,Bardet-Biedl syndrome,Male,Reporter.intensity.10.pt7431,mesr,Male,White,Bardet-Biedl syndrome,50-54
+pt6386,Reporter intensity 10,meue_4,10108,Normal,Male,Reporter.intensity.10.pt6386,meue,Male,White - White British,Normal,65-69
+pt6383,Reporter intensity 5,miaj_4,10076,Normal,Male,Reporter.intensity.5.pt6383,miaj,Male,White - White British,Normal,50-54
+pt6383,Reporter intensity 9,miaj_6,10080,Normal,Male,Reporter.intensity.9.pt6383,miaj,Male,White - White British,Normal,50-54
+pt6376,Reporter intensity 5,mijn_2,10022,Bardet-Biedl syndrome,Male,Reporter.intensity.5.pt6376,mijn,Male,White - White British,Bardet-Biedl syndrome,35-39
+pt6375,Reporter intensity 10,mitg_4,10018,Monogenic diabetes,Male,Reporter.intensity.10.pt6375,mitg,Male,Cauc,Monogenic diabetes,45540
+pt7431,Reporter intensity 4,mure_4,10210,Monogenic diabetes,Male,Reporter.intensity.4.pt7431,mure,Male,Caucasian,Monogenic diabetes,50-54
+pt7431,Reporter intensity 5,mure_9,10211,Monogenic diabetes,Male,Reporter.intensity.5.pt7431,mure,Male,Caucasian,Monogenic diabetes,50-54
+pt6385,Reporter intensity 3,naah_4,10092,Normal,Male,Reporter.intensity.3.pt6385,naah,Male,White - White British,Normal,55-59
+pt6380,Reporter intensity 6,nibo_3,10050,Normal,Female,Reporter.intensity.6.pt6380,nibo,#N/A,#N/A,#N/A,#N/A
+pt6392,Reporter intensity 5,niim_3,10157,Monogenic diabetes,Female,Reporter.intensity.5.pt6392,niim,Female,Caucasian,Monogenic diabetes,35-39
+pt7422,Reporter intensity 5,nosn_6,10184,Normal,Female,Reporter.intensity.5.pt7422,nosn,Female,White - White British,Normal,55-59
+pt6386,Reporter intensity 4,nufh_3,10102,Normal,Female,Reporter.intensity.4.pt6386,nufh,Female,White - White British,Normal,55-59
+pt7422,Reporter intensity 2,nufh_4,10181,Normal,Female,Reporter.intensity.2.pt7422,nufh,Female,White - White British,Normal,55-59
+pt6984,Reporter intensity 8,nukw_1,10178,Normal,Female,Reporter.intensity.8.pt6984,nukw,Female,null,Normal,null
+pt6383,Reporter intensity 6,oaqd_3,10077,Normal,Male,Reporter.intensity.6.pt6383,oaqd,Male,White - White British,Normal,55-59
+pt6383,Reporter intensity 7,oaqd_2,10078,Normal,Male,Reporter.intensity.7.pt6383,oaqd,Male,White - White British,Normal,55-59
+pt6388,Reporter intensity 9,oarz_22,10125,Normal,Male,Reporter.intensity.9.pt6388,oarz2,#N/A,#N/A,#N/A,#N/A
+pt6374,Reporter intensity 5,oebj_1,10004,Monogenic diabetes,Male,Reporter.intensity.5.pt6374,oebj,Male,Middle East,Monogenic diabetes,0-4
+pt6983,Reporter intensity 8,oibg_1,10169,Normal,Female,Reporter.intensity.8.pt6983,oibg,Female,null,Normal,null
+pt6389,Reporter intensity 7,oikd_5,10132,Normal,Female,Reporter.intensity.7.pt6389,oikd,Female,White - White British,Normal,40-44
+pt7422,Reporter intensity 7,oikd_2,10186,Normal,Female,Reporter.intensity.7.pt7422,oikd,Female,White - White British,Normal,40-44
+pt6375,Reporter intensity 5,oojs_1,10013,Monogenic diabetes,Male,Reporter.intensity.5.pt6375,oojs,Male,Cauc,Monogenic diabetes,45540
+pt7428,Reporter intensity 3,oulr_2,10191,Monogenic diabetes,Male,Reporter.intensity.3.pt7428,oulr,Male,Caucasian,Monogenic diabetes,15-19
+pt7428,Reporter intensity 8,oulr_4,10196,Monogenic diabetes,Male,Reporter.intensity.8.pt7428,oulr,Male,Caucasian,Monogenic diabetes,15-19
+pt7422,Reporter intensity 10,ouvb_2,10189,Normal,Female,Reporter.intensity.10.pt7422,ouvb,Female,White - White British,Normal,50-54
+pt7430,Reporter intensity 6,ozuk_4,10203,Bardet-Biedl syndrome,Male,Reporter.intensity.6.pt7430,ozuk,#N/A,#N/A,#N/A,#N/A
+pt7430,Reporter intensity 7,ozuk_5,10204,Bardet-Biedl syndrome,Male,Reporter.intensity.7.pt7430,ozuk,#N/A,#N/A,#N/A,#N/A
+pt6381,Reporter intensity 3,paab_3,10056,Normal,Male,Reporter.intensity.3.pt6381,paab,Male,White - White British,Normal,70-74
+pt6381,Reporter intensity 7,paab_4,10060,Normal,Male,Reporter.intensity.7.pt6381,paab,Male,White - White British,Normal,70-74
+pt6984,Reporter intensity 7,pamv_1,10177,Normal,Male,Reporter.intensity.7.pt6984,pamv,Male,White - White British,Normal,65-69
+pt6375,Reporter intensity 3,pirs_1,10011,Monogenic diabetes,Male,Reporter.intensity.3.pt6375,pirs,Male,Cauc,Monogenic diabetes,45540
+pt6383,Reporter intensity 4,poih_2,10075,Normal,Female,Reporter.intensity.4.pt6383,poih,Female,White - White British,Normal,70-74
+pt6383,Reporter intensity 10,poih_4,10081,Normal,Female,Reporter.intensity.10.pt6383,poih,Female,White - White British,Normal,70-74
+pt6381,Reporter intensity 5,puie_5,10058,Normal,Male,Reporter.intensity.5.pt6381,puie,Male,White - White British,Normal,60-64
+pt6381,Reporter intensity 6,puie_4,10059,Normal,Male,Reporter.intensity.6.pt6381,puie,Male,White - White British,Normal,60-64
+pt6375,Reporter intensity 4,pulk_1,10012,Monogenic diabetes,Female,Reporter.intensity.4.pt6375,pulk,Female,Caucasian,Monogenic diabetes,50-54
+pt6983,Reporter intensity 4,puvg_1,10165,Bardet-Biedl syndrome,Female,Reporter.intensity.4.pt6983,puvg,Female,Caucasian,Bardet-Biedl syndrome,45-49
+pt6390,Reporter intensity 3,qajt_2,10137,Monogenic diabetes,Male,Reporter.intensity.3.pt6390,qajt,Male,Caucasian,Monogenic diabetes,65-69
+pt6390,Reporter intensity 4,qajt_5,10138,Monogenic diabetes,Male,Reporter.intensity.4.pt6390,qajt,Male,Caucasian,Monogenic diabetes,65-69
+pt6382,Reporter intensity 7,qayj_3,10069,Normal,Female,Reporter.intensity.7.pt6382,qayj,Female,White - White British,Normal,60-64
+pt6382,Reporter intensity 9,qayj_4,10071,Normal,Female,Reporter.intensity.9.pt6382,qayj,Female,White - White British,Normal,60-64
+pt7428,Reporter intensity 6,qehq_7,10194,Normal,Male,Reporter.intensity.6.pt7428,qehq,Male,White - White British,Normal,65-69
+pt6391,Reporter intensity 6,qeti_2,10149,Kabuki syndrome,Male,Reporter.intensity.6.pt6391,qeti,Male,White Caucasian,Kabuki syndrome,5Y-9Y
+pt6392,Reporter intensity 9,qeti_1,10161,Kabuki syndrome,Male,Reporter.intensity.9.pt6392,qeti,Male,White Caucasian,Kabuki syndrome,5Y-9Y
+pt6386,Reporter intensity 8,qoog_4,10106,Normal,Female,Reporter.intensity.8.pt6386,qoog,Female,White - White British,Normal,45-49
+pt6984,Reporter intensity 5,qorq_2,10175,Normal,Male,Reporter.intensity.5.pt6984,qorq,Male,White - White British,Normal,50-54
+pt6381,Reporter intensity 9,quls_2,10062,Normal,Male,Reporter.intensity.9.pt6381,quls,Male,White - White British,Normal,55-59
+pt6377,Reporter intensity 4,rayr_1,10030,Normal,Male,Reporter.intensity.4.pt6377,rayr,Male,White - White British,Normal,75-79
+pt6376,Reporter intensity 4,reng_4,10021,Bardet-Biedl syndrome,Male,Reporter.intensity.4.pt6376,reng,Male,Caucasian,Bardet-Biedl syndrome,40-44
+pt6374,Reporter intensity 3,riya_2,10002,Monogenic diabetes,Female,Reporter.intensity.3.pt6374,riya,Female,Cauc (Bulgarian),Monogenic diabetes,10Y-14Y
+pt6385,Reporter intensity 8,roug_3,10097,Normal,Female,Reporter.intensity.8.pt6385,roug,Female,White - White British,Normal,70-74
+pt6388,Reporter intensity 8,rozh_5,10124,Normal,Female,Reporter.intensity.8.pt6388,rozh,Female,White - White British,Normal,65-69
+pt7431,Reporter intensity 2,rufg_3,10208,Bardet-Biedl syndrome,Male,Reporter.intensity.2.pt7431,rufg,Male,White British,Bardet-Biedl syndrome,45-49
+pt7431,Reporter intensity 3,rufg_4,10209,Bardet-Biedl syndrome,Male,Reporter.intensity.3.pt7431,rufg,Male,White British,Bardet-Biedl syndrome,45-49
+pt6380,Reporter intensity 9,sebn_3,10053,Normal,Female,Reporter.intensity.9.pt6380,sebn,Female,White - White British,Normal,65-69
+pt6380,Reporter intensity 10,sebn_4,10054,Normal,Female,Reporter.intensity.10.pt6380,sebn,Female,White - White British,Normal,65-69
+pt6385,Reporter intensity 4,sehl_6,10093,Normal,Female,Reporter.intensity.4.pt6385,sehl,Female,White - White British,Normal,55-59
+pt6384,Reporter intensity 3,seru_7,10083,Normal,Female,Reporter.intensity.3.pt6384,seru,Female,White - White British,Normal,65-69
+pt6384,Reporter intensity 6,seru_1,10086,Normal,Female,Reporter.intensity.6.pt6384,seru,Female,White - White British,Normal,65-69
+pt6389,Reporter intensity 9,sohd_3,10134,Normal,Female,Reporter.intensity.9.pt6389,sohd,Female,White - White British,Normal,70-74
+pt6387,Reporter intensity 3,sojd_3,10110,Normal,Female,Reporter.intensity.3.pt6387,sojd,Female,White - Other,Normal,45-49
+pt6389,Reporter intensity 2,suop_2,10127,Normal,Male,Reporter.intensity.2.pt6389,suop,Male,White - White British,Normal,50-54
+pt6392,Reporter intensity 7,tavh_2,10159,Monogenic diabetes,Male,Reporter.intensity.7.pt6392,tavh,Male,Caucasian,Monogenic diabetes,55-59
+pt6983,Reporter intensity 10,terl_1,10171,Normal,Male,Reporter.intensity.10.pt6983,terl,Male,White - White British,Normal,60-64
+pt7430,Reporter intensity 8,tifo_1,10205,Bardet-Biedl syndrome,Male,Reporter.intensity.8.pt7430,tifo,Male,Asian,Bardet-Biedl syndrome,30-34
+pt7430,Reporter intensity 9,tifo_2,10206,Bardet-Biedl syndrome,Male,Reporter.intensity.9.pt7430,tifo,Male,Asian,Bardet-Biedl syndrome,30-34
+pt6382,Reporter intensity 8,tixi_4,10070,Normal,Female,Reporter.intensity.8.pt6382,tixi,Female,White - White British,Normal,70-74
+pt6379,Reporter intensity 3,toco_5,10038,Normal,Female,Reporter.intensity.3.pt6379,toco,Female,White - White British,Normal,55-59
+pt6382,Reporter intensity 3,tolg_6,10065,Normal,Male,Reporter.intensity.3.pt6382,tolg,Male,White - White British,Normal,70-74
+pt6382,Reporter intensity 4,tolg_4,10066,Normal,Male,Reporter.intensity.4.pt6382,tolg,Male,White - White British,Normal,70-74
+pt6390,Reporter intensity 9,tony_5,10143,Congenital hyperinsulinism,Female,Reporter.intensity.9.pt6390,tony,Female,Indian,Congenital hyperinsulinism,0-4
+pt6387,Reporter intensity 5,tout_1,10112,Monogenic diabetes,Female,Reporter.intensity.5.pt6387,tout,Female,Caucasian,Monogenic diabetes,15-19
+pt7428,Reporter intensity 2,tuju_1,10190,Normal,Female,Reporter.intensity.2.pt7428,tuju,Female,White - White British,Normal,50-54
+pt7428,Reporter intensity 7,tuju_4,10195,Normal,Female,Reporter.intensity.7.pt7428,tuju,Female,White - White British,Normal,50-54
+pt6386,Reporter intensity 9,ualf_2,10107,Normal,Female,Reporter.intensity.9.pt6386,ualf,Female,White - White British,Normal,55-59
+pt6380,Reporter intensity 2,ueah_1,10046,Normal,Male,Reporter.intensity.2.pt6380,ueah,Male,null,Normal,null
+pt6380,Reporter intensity 3,ueah_2,10047,Normal,Male,Reporter.intensity.3.pt6380,ueah,Male,null,Normal,null
+pt6387,Reporter intensity 8,uofv_1,10115,Normal,Male,Reporter.intensity.8.pt6387,uofv,Male,White - White British,Normal,60-64
+pt6388,Reporter intensity 6,uoxz_4,10122,Normal,Female,Reporter.intensity.6.pt6388,uoxz,Female,null,Normal,null
+pt6984,Reporter intensity 6,vabj_3,10176,Normal,Female,Reporter.intensity.6.pt6984,vabj,Female,White - White British,Normal,50-54
+pt6387,Reporter intensity 10,vajx_2,10117,Normal,Male,Reporter.intensity.10.pt6387,vajx,Male,White - White British,Normal,50-54
+pt6389,Reporter intensity 4,vazt_2,10129,Normal,Male,Reporter.intensity.4.pt6389,vazt,Male,White - White British,Normal,55-59
+pt6391,Reporter intensity 8,vieg_3,10151,Hereditary cerebellar ataxia,Male,Reporter.intensity.8.pt6391,vieg,Male,Caucasian,Hereditary cerebellar ataxia,40-44
+pt6391,Reporter intensity 10,vieg_5,10153,Hereditary cerebellar ataxia,Male,Reporter.intensity.10.pt6391,vieg,Male,Caucasian,Hereditary cerebellar ataxia,40-44
+pt7431,Reporter intensity 8,voxu_1,10214,Monogenic diabetes,Female,Reporter.intensity.8.pt7431,voxu,Female,Caucasian,Monogenic diabetes,65-69
+pt7431,Reporter intensity 9,voxu_2,10215,Monogenic diabetes,Female,Reporter.intensity.9.pt7431,voxu,Female,Caucasian,Monogenic diabetes,65-69
+pt6389,Reporter intensity 10,wahn_2,10135,Normal,Female,Reporter.intensity.10.pt6389,wahn,Female,White - White British,Normal,65-69
+pt7422,Reporter intensity 6,wahn_1,10185,Normal,Female,Reporter.intensity.6.pt7422,wahn,Female,White - White British,Normal,65-69
+pt6374,Reporter intensity 9,walu_1,10008,Monogenic diabetes,Male,Reporter.intensity.9.pt6374,walu,Male,Caucasian,Monogenic diabetes,35-39
+pt6377,Reporter intensity 2,waus_1,10028,Bardet-Biedl syndrome,Female,Reporter.intensity.2.pt6377,waus,Female,White - White British,Bardet-Biedl syndrome,40-44
+pt6377,Reporter intensity 9,wize_1,10035,Bardet-Biedl syndrome,Female,Reporter.intensity.9.pt6377,wize,Female,Caucasian,Bardet-Biedl syndrome,45-49
+pt6391,Reporter intensity 4,xanu_6,10147,Usher syndrome and congenital eye defects,Female,Reporter.intensity.4.pt6391,xanu,Female,Caucasian,Usher syndrome and congenital eye defects,45-49
+pt6392,Reporter intensity 3,xanu_5,10155,Usher syndrome and congenital eye defects,Female,Reporter.intensity.3.pt6392,xanu,Female,Caucasian,Usher syndrome and congenital eye defects,45-49
+pt6388,Reporter intensity 7,xavk_3,10123,Normal,Female,Reporter.intensity.7.pt6388,xavk,Female,null,Normal,null
+pt6375,Reporter intensity 8,xebt_2,10016,Monogenic diabetes,Male,Reporter.intensity.8.pt6375,xebt,Male,Asian,Monogenic diabetes,0-4
+pt6391,Reporter intensity 2,xiry_5,10145,Bardet-Biedl syndrome,Male,Reporter.intensity.2.pt6391,xiry,Male,White British,Bardet-Biedl syndrome,35-39
+pt6391,Reporter intensity 7,xiry_1,10150,Bardet-Biedl syndrome,Male,Reporter.intensity.7.pt6391,xiry,Male,White British,Bardet-Biedl syndrome,35-39
+pt6384,Reporter intensity 4,xojn_3,10084,Normal,Female,Reporter.intensity.4.pt6384,xojn,Female,White - White British,Normal,50-54
+pt6377,Reporter intensity 8,xugr_2,10034,Bardet-Biedl syndrome,Female,Reporter.intensity.8.pt6377,xugr,Female,Caucasian,Bardet-Biedl syndrome,25-29
+pt6388,Reporter intensity 5,xuja_2,10121,Normal,Female,Reporter.intensity.5.pt6388,xuja,Female,White - White British,Normal,45-49
+pt6379,Reporter intensity 6,yemz_3,10041,Normal,Male,Reporter.intensity.6.pt6379,yemz,Male,White - White British,Normal,70-74
+pt6379,Reporter intensity 7,yemz_1,10042,Normal,Male,Reporter.intensity.7.pt6379,yemz,Male,White - White British,Normal,70-74
+pt7422,Reporter intensity 3,yoch_6,10182,Normal,Female,Reporter.intensity.3.pt7422,yoch,Female,White - White British,Normal,60-64
+pt6984,Reporter intensity 3,yotv_2,10173,Normal,Male,Reporter.intensity.3.pt6984,yotv,Male,null,Normal,null
+pt6389,Reporter intensity 8,zagm_1,10133,Normal,Male,Reporter.intensity.8.pt6389,zagm,Male,White - White British,Normal,60-64
+pt6385,Reporter intensity 6,zaie_5,10095,Normal,Female,Reporter.intensity.6.pt6385,zaie,Female,White - White British,Normal,70-74
+pt6386,Reporter intensity 6,zaie_1,10104,Normal,Female,Reporter.intensity.6.pt6386,zaie,Female,White - White British,Normal,70-74
+pt6374,Reporter intensity 10,zaos_1,10009,Monogenic diabetes,Male,Reporter.intensity.10.pt6374,zaos,Male,Pakistan,Monogenic diabetes,0-4
+pt6384,Reporter intensity 5,zazi_4,10085,Bardet-Biedl syndrome,Female,Reporter.intensity.5.pt6384,zazi,Female,Caucasian,Bardet-Biedl syndrome,25-29
+pt6384,Reporter intensity 7,zazi_5,10087,Bardet-Biedl syndrome,Female,Reporter.intensity.7.pt6384,zazi,Female,Caucasian,Bardet-Biedl syndrome,25-29
+pt6384,Reporter intensity 2,zerv_7,10082,Normal,Female,Reporter.intensity.2.pt6384,zerv,Female,White - White British,Normal,40-44
+pt6384,Reporter intensity 10,zerv_8,10090,Normal,Female,Reporter.intensity.10.pt6384,zerv,Female,White - White British,Normal,40-44
+pt6379,Reporter intensity 8,zisa_33,10043,Normal,Male,Reporter.intensity.8.pt6379,zisa3,Male,European,Normal,Not available
+pt6381,Reporter intensity 4,zoio_1,10057,Monogenic diabetes,Female,Reporter.intensity.4.pt6381,zoio,Female,Caucasian,Monogenic diabetes,75-79
+pt6381,Reporter intensity 8,zoio_2,10061,Monogenic diabetes,Female,Reporter.intensity.8.pt6381,zoio,Female,Caucasian,Monogenic diabetes,75-79

@@ -1,0 +1,90 @@
+Modification	Mass Shift	dataset01_PSMs	dataset01_percent_PSMs
+None	0.0	37410	61.8840
+First isotopic peak	1.00235	4284	7.0880
+Unannotated mass-shift 78.0140	78.014	1828	3.0230
+Deamidation	0.984016	1559	2.5790
+Second isotopic peak	2.0047	889	1.4710
+Unannotated mass-shift 95.9888	95.9888	795	1.3160
+Unidentified modification of 248.1986 found in open search	248.19876	718	1.1880
+dihydroxy	31.989829	687	1.1360
+Carbamylation	43.005814	674	1.1150
+Oxidation or Hydroxylation	15.994915	628	1.0390
+Isotopic peak error	-1.00235	553	0.9150
+Iodoacetamide derivative/Addition of Glycine/Addition of G	57.021464	419	0.6930
+Lysine oxidation to aminoadipic semialdehyde	-1.031634	391	0.6470
+Pyro-glu from Q/Loss of ammonia	-17.026549	382	0.6320
+Aminoethylbenzenesulfonylation	183.035399	378	0.6260
+Unannotated mass-shift 0.9566	0.9566	351	0.5800
+Unannotated mass-shift -116.0588	-116.0588	336	0.5550
+Replacement of 3 protons by iron	52.911464	287	0.4760
+Unannotated mass-shift -0.9576	-0.9576	253	0.4190
+2-amino-3-oxo-butanoic_acid	-2.01565	243	0.4020
+Unannotated mass-shift 1.0192	1.0192	243	0.4020
+Unannotated mass-shift -0.0862	-0.0862	222	0.3670
+Formylation	27.994915	216	0.3570
+proline oxidation to pyroglutamic acid/Tryptophan oxidation to oxolactone/aldehyde and ketone modifications	13.979265	199	0.3300
+Unannotated mass-shift -0.0724	-0.0724	194	0.3210
+Third isotopic peak	3.0070500000000004	185	0.3060
+Unannotated mass-shift 1.0830	1.083	177	0.2930
+Amidation	-0.984016	174	0.2880
+Unannotated mass-shift -0.1290	-0.129	167	0.2760
+Unannotated mass-shift -0.1118	-0.1118	156	0.2580
+cysteine oxidation to cysteic acid	47.984744	154	0.2540
+Unannotated mass-shift -91.0094	-91.0094	152	0.2510
+Unannotated mass-shift 1.0634	1.0634	149	0.2460
+Methylation	14.01565	129	0.2130
+Unannotated mass-shift 0.9400	0.94	126	0.2080
+tryptophan oxidation to kynurenin	3.994915	102	0.1690
+Unannotated mass-shift 61.9810	61.981	100	0.1650
+Unannotated mass-shift 1.1122	1.1122	85	0.1410
+Iodoacetic acid derivative	58.005479	80	0.1320
+Cysteinylation	119.004099	78	0.1290
+Phosphorylation	79.966331	77	0.1280
+Unannotated mass-shift 248.0462	248.0462	76	0.1260
+Dehydration/Pyro-glu from E	-18.010565	72	0.1190
+Acetylation	42.010565	65	0.1070
+Addition of lysine due to transpeptidation/Addition of K	128.094963	63	0.1040
+Brij 35 synthetic polymer terminus	168.187801	60	0.0990
+13C(9) 15N(1) Silac label	10.027228	59	0.0980
+Unannotated mass-shift 1.0946	1.0946	57	0.0940
+Unannotated mass-shift 266.1558	266.1558	54	0.0890
+bromination	77.910511	54	0.0890
+Unannotated mass-shift -0.8790	-0.879	53	0.0880
+Unannotated mass-shift -3.9404	-3.9404	50	0.0820
+S-Ethylcystine from Serine	44.008456	50	0.0830
+Unannotated mass-shift 194.1178	194.1178	47	0.0780
+quinone	29.974179	40	0.0670
+Replacement of proton by potassium	37.955882	40	0.0660
+Unannotated mass-shift 262.1426	262.1426	36	0.0600
+Unannotated mass-shift 278.1532	278.1532	36	0.0600
+Unannotated mass-shift -32.0264	-32.0264	33	0.0550
+2,3-dihydro-2,2-dimethyl-7-benzofuranol N-methyl carbamate	58.029289	31	0.0510
+O-Sulfonation	79.956815	30	0.0500
+Unannotated mass-shift 97.9282	97.9282	29	0.0480
+Unannotated mass-shift -98.0466	-98.0466	28	0.0460
+Unannotated mass-shift 16.0052	16.0052	25	0.0410
+di-Methylation/Acetaldehyde +28/Ethylation	28.0313	24	0.0400
+deuterated methyl ester	17.03448	22	0.0360
+Addition of arginine due to transpeptidation/Addition of R	156.101111	21	0.0350
+biotin hydrazide labeled acrolein addition +298	298.146347	21	0.0350
+Replacement of 2 protons by iron	53.919289	19	0.0310
+Carboxylation	43.989829	18	0.0300
+Methionine oxidation to aspartic semialdehyde	-32.008456	18	0.0300
+Unannotated mass-shift 208.9398	208.9398	17	0.0280
+tri-Methylation/Propyl	42.04695	17	0.0280
+Hexose	162.052824	16	0.0260
+Unannotated mass-shift -9.0374	-9.0374	16	0.0260
+Acetylhypusine/Addition of I/Addition of L	113.084064	16	0.0260
+Unannotated mass-shift 78.0010	78.001	15	0.0250
+Unannotated mass-shift -3.9596	-3.9596	14	0.0230
+Modified GMBS X linker	267.158292	13	0.0220
+Tyrosine caged with 2-nitrobenzyl (ONB)	135.032028	12	0.0200
+Unannotated mass-shift 192.9782	192.9782	12	0.0200
+oxoalanine	-17.992806	12	0.0200
+formaldehyde adduct	12.0	12	0.0200
+N-ethylmaleimideSulfur	157.019749	12	0.0200
+Trideuteration	3.01883	11	0.0180
+Tryptophan oxidation to hydroxy-bis-tryptophandione	43.953444	11	0.0180
+Unannotated mass-shift 97.9778	97.9778	11	0.0180
+O-Methylphosphorylation	93.981981	10	0.0170
+Methylphosphonylation	77.987066	10	0.0170
